@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PingPongScore</string>
+    <string name="_0">0</string>
+    <string name="score">:</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="serve">.</string>
+    <string name="the_serve_is_for_player_1">The serve is for Player 1</string>
+    <string name="restart">Restart</string>
+</resources>
